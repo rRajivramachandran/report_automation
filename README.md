@@ -5,3 +5,5 @@ An Excel doc with just single words under each heading is the required input . A
 rows, each row for one event. This way we can prepare all our day reports at one shot with just a few words in an Excel doc.
 This excel doc is to be save in the same folder as the program and after running the program the generated reports also appear
 in the same folder. 
+
+data.csv is a sample excel folder inserted to help users understand the expected format in which data is to be fed into the program.
